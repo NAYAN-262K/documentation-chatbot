@@ -20,7 +20,7 @@ This project crawls documentation pages, chunks text into sections, generates em
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/documentation-chatbot.git
+git clone https://github.com/NAYAN-262K/documentation-chatbot.git
 cd documentation-chatbot
 ```
 
