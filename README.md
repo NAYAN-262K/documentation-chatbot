@@ -64,6 +64,8 @@ This will create:
 * `embeddings.npy`
 * `index.faiss`
 
+Store these in the data folder(create one)
+
 ### 6. Run the chatbot locally
 
 ```bash
