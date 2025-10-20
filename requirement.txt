@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+tqdm
+nltk
+numpy
+faiss-cpu
+sentence-transformers
+streamlit
